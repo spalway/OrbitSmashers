@@ -41,7 +41,7 @@ Orbit Smashers is a 2.5-dimensional aim-trainer game designed to improve hand-ey
   - Object-oriented programming principles
 
 ## Contributors
-- **Developed by:** [Your Name]  
+- **Developed by:** Akshanth Palway  
   Creative Computing, Southern Methodist University
 
 ## License
