@@ -1,4 +1,5 @@
 # Orbit Smashers
+![image](https://github.com/user-attachments/assets/1eceb6dc-655c-4560-923a-cbd59a653420)
 
 ## Overview
 Orbit Smashers is a 2.5-dimensional aim-trainer game designed to improve hand-eye coordination when using a mouse. Developed as part of the Creative Computing curriculum at Southern Methodist University (Jan 2024 - May 2024), it was showcased at the 2024 SMU C3 Conference.
